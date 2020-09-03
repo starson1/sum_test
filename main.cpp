@@ -4,5 +4,5 @@
 
 int main(void){
 	int s = sum(10);
-	printf("result is : %d\n",s)
+	printf("result is : %d\n",s);
 }
